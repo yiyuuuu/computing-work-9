@@ -1,3 +1,3 @@
-Hello
+Hello!
 I am Hayley Yin
-I like badminton
+and I like badminton :)
